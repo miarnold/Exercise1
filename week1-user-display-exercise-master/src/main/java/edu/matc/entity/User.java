@@ -10,7 +10,7 @@ import java.time.Period;
 /**
  * A class to represent a user.
  *
- * @author pwaite
+ * @author marnold
  */
 public class User {
     private String firstName;
